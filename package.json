@@ -14,5 +14,8 @@
     "Anju"
   ],
   "author": "mit",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
